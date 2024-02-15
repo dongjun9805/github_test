@@ -1,2 +1,2 @@
-# github_test
+# iTshirt-cat
 dev lecture for github
